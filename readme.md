@@ -22,3 +22,7 @@ Answer :
 - Multi therading
 - Distributed
 - Dynamic
+
+3.What is an ide?
+
+Answer : 
